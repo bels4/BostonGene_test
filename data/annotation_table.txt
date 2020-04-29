@@ -1,0 +1,97 @@
+icgc_id	expression subtype
+ICGC_0543	Squamous
+ICGC_0522	Squamous
+ICGC_0521	Squamous
+ICGC_0535	Squamous
+ICGC_0313	Squamous
+ICGC_0326	Squamous
+ICGC_0227	Squamous
+ICGC_0321	Squamous
+ICGC_0296	Squamous
+ICGC_0315	Squamous
+ICGC_0199	Squamous
+ICGC_0188	Squamous
+ICGC_0169	Squamous
+ICGC_0141	Squamous
+ICGC_0134	Squamous
+ICGC_0067	Squamous
+ICGC_0393	Squamous
+ICGC_0392	Squamous
+ICGC_0114	Squamous
+ICGC_0206	Squamous
+ICGC_0054	Squamous
+ICGC_0037	Squamous
+ICGC_0025	Squamous
+ICGC_0009	Squamous
+ICGC_0021	Squamous
+ICGC_0103	ADEX
+ICGC_0354	ADEX
+ICGC_0033	ADEX
+ICGC_0406	ADEX
+ICGC_0048	ADEX
+ICGC_0026	ADEX
+ICGC_0503	ADEX
+ICGC_0420	ADEX
+ICGC_0338	ADEX
+ICGC_0201	ADEX
+ICGC_0146	ADEX
+ICGC_0205	ADEX
+ICGC_0052	ADEX
+ICGC_0391	ADEX
+ICGC_0006	ADEX
+ICGC_0075	ADEX
+ICGC_0053	Pancreatic Progenitor
+ICGC_0419	Pancreatic Progenitor
+ICGC_0140	Pancreatic Progenitor
+ICGC_0230	Pancreatic Progenitor
+ICGC_0212	Pancreatic Progenitor
+ICGC_0507	Pancreatic Progenitor
+ICGC_0518	Pancreatic Progenitor
+ICGC_0502	Pancreatic Progenitor
+ICGC_0417	Pancreatic Progenitor
+ICGC_0365	Pancreatic Progenitor
+ICGC_0309	Pancreatic Progenitor
+ICGC_0486	Pancreatic Progenitor
+ICGC_0235	Pancreatic Progenitor
+ICGC_0224	Pancreatic Progenitor
+ICGC_0295	Pancreatic Progenitor
+ICGC_0215	Pancreatic Progenitor
+ICGC_0223	Pancreatic Progenitor
+ICGC_0304	Pancreatic Progenitor
+ICGC_0192	Pancreatic Progenitor
+ICGC_0185	Pancreatic Progenitor
+ICGC_0143	Pancreatic Progenitor
+ICGC_0139	Pancreatic Progenitor
+ICGC_0066	Pancreatic Progenitor
+ICGC_0105	Pancreatic Progenitor
+ICGC_0059	Pancreatic Progenitor
+ICGC_0055	Pancreatic Progenitor
+ICGC_0051	Pancreatic Progenitor
+ICGC_0088	Pancreatic Progenitor
+ICGC_0031	Pancreatic Progenitor
+ICGC_0087	Pancreatic Progenitor
+ICGC_0099	Immunogenic
+ICGC_0536	Immunogenic
+ICGC_0301	Immunogenic
+ICGC_0300	Immunogenic
+ICGC_0214	Immunogenic
+ICGC_0150	Immunogenic
+ICGC_0149	Immunogenic
+ICGC_0144	Immunogenic
+ICGC_0124	Immunogenic
+ICGC_0207	Immunogenic
+ICGC_0108	Immunogenic
+ICGC_0061	Immunogenic
+ICGC_0007	Immunogenic
+ICGC_0020	Immunogenic
+ICGC_0063	Immunogenic
+ICGC_0312	Immunogenic
+ICGC_0153	Immunogenic
+ICGC_0135	Immunogenic
+ICGC_0395	Immunogenic
+ICGC_0109	Immunogenic
+ICGC_0526	Immunogenic
+ICGC_0115	Immunogenic
+ICGC_0412	Immunogenic
+ICGC_0303	Immunogenic
+ICGC_0415	Immunogenic
